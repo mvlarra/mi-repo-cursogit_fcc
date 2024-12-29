@@ -1,2 +1,2 @@
-# mi-repo-cursogit_fcc
+# Mi primer readme
 mi-repositorio-cursogit-enfreecodecamp
